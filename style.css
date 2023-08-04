@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Edu+SA+Beginner&family=Inter:wght@300&family=REM:ital,wght@1,300&display=swap');
+body {
+    background: #A6B07E;
+    color: white;
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    padding: 20px;
+}
+h1{
+  font-size: large;
+}
+p{
+  font-size: small;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.profile-img{
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+}
+.btn{
+  display: block;
+  padding: 20px;
+  margin: 16px;
+  color: black;
+  background: white;
+  box-shadow: 10px 10px lightblue;
+}
